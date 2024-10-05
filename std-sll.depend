@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728096424 source:c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\std-sll\main.cpp
+	"sll.h"
+	<iostream>
+
+1728096365 c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\std-sll\sll.h
+	<string>
+
+1728096393 source:c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\std-sll\sll.cpp
+	"sll.h"
+	<iostream>
+
